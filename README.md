@@ -1,6 +1,6 @@
 # testformatter
 formats txt or docx for respondus import
-current limitations: images and tables break the program (no output b/c there is no error handling)
+current limitations: only multiple choice and T/F supported; images and tables break the program (output blank file b/c there is no error handling)
 
 build folder contains most recent version, test files, and instructions/version history
 
