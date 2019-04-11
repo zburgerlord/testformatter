@@ -1,0 +1,20 @@
+﻿v2.0
+The test formatter now supports docx files!  It doesn't work for pre-2007 Word documents.  The old format (txt only) is still available as an option for processing files.  Also added was a done message at the end as a signal for users.  The icon was changed to keep things from being confusing with previous versions.
+
+Instructions:
+1. Choose the type of test you would like to format (TXT or DOCX).
+2. Choose the file to open.
+3. Name your save file. This still saves as txt only.
+4. That's it! 
+
+
+
+
+
+
+---------------
+v1.0
+Here is the test formatter that should strip out the answers (and other extraneous information) and place the answers in a numbered list at the end of the document.  One thing for this version:
+
+1.	Tests have to be in .txt format to be opened (Word files won’t work)
+
