@@ -1,5 +1,5 @@
 # testformatter
-formats txt or docx for respondus import 
+python ditty that formats txt or docx for respondus import 
 
 ## current limitations
 1. only multiple choice and T/F question types supported
